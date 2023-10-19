@@ -1,0 +1,10 @@
+user1,TestPass
+user2,TestPass2
+user3,TestPass3!
+user4,me
+user5,TestPass5!123
+user6,NowIsTheTime!@12
+user7,!=+-?#%@&^$_,.)(<>[]{}*'";:/?
+create1,ZJSuV^Ian6
+create2,lBG41tFsryc$Ctd
+create4,Vl-5#RV4zIHkxQ_I3
